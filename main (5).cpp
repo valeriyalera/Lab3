@@ -1,3 +1,4 @@
+//Potiekhina Valeriia, K-27, var17
 #include <iostream>
 #include <vector>
 #include <thread>
@@ -96,4 +97,5 @@ int main() {
 
     std::osyncstream(std::cout) << "Calculation finished.\n";
     return 0;
+
 }
